@@ -1,0 +1,1 @@
+<Provide detect.js content if available>

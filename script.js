@@ -1,0 +1,1 @@
+<Provide script.js content if available>
